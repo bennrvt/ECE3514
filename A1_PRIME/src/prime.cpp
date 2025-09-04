@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "../include/prime.hpp"
+#include "A1_PRIME/include/prime.hpp"
 //prime.cpp
 
 // TODO: Implement isPrimeHalf
