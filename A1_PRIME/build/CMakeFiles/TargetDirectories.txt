@@ -1,0 +1,4 @@
+/mnt/c/Users/Academic Weaponry/School/Work/Fall 25'/ECE 3514/9.1-9.5/A1_PRIME/build/CMakeFiles/A1_PRIME_TEST.dir
+/mnt/c/Users/Academic Weaponry/School/Work/Fall 25'/ECE 3514/9.1-9.5/A1_PRIME/build/CMakeFiles/test.dir
+/mnt/c/Users/Academic Weaponry/School/Work/Fall 25'/ECE 3514/9.1-9.5/A1_PRIME/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Academic Weaponry/School/Work/Fall 25'/ECE 3514/9.1-9.5/A1_PRIME/build/CMakeFiles/rebuild_cache.dir
