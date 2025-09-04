@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch2/catch.hpp"
-#include "../include/prime.hpp"
+#include "A1_PRIME/include/prime.hpp"
 
 
 
